@@ -1,18 +1,23 @@
-## Hi there 👋
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<!--
-**syafiq9326/syafiq9326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World, I'm Syafiq Akmal 👋
 
+## About Me
+- 🌱 Learning how to fix broken code.
+- 📝 Check out my website: [syafiq9326](https://sites.google.com/view/syafiq9326).
 
+## Interests
+- 🏃 I love running – sometimes even running from life itself, 24km is a personal goal of mine! 😄
+- 🎬 I'm a huge fan of dramas and movies, regardless of the genre. I enjoy watching Thai, Korean, and Mandarin productions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### IntelliFi
+A real-time personal stock analysis website featuring live stock holding prices, latest news updates, portfolio insights, and buy/sell recommendations of user's holdings, capable of text-to-speech analysis.
+
+### EventPro
+An "old-school" event management system, where organizers and participants can manage their schedule, similar to EventBrite, but with the added feature of analyzing event sentiments and turnout rates.
+
+## Contributions
+![Syafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=syafiq9326&show_icons=true&theme=radical)
+Give me awhile, I am gonna be commiting more to this Github than any of my personal relationships.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/syafiq9326)
