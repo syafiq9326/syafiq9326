@@ -13,7 +13,7 @@
 ## Interests
 - 🏃 I love running – sometimes even running from life itself, 24km is a personal goal of mine! 😄
 - 🎬 I'm a huge fan of dramas and movies, regardless of the genre. I enjoy watching Thai, Korean, and Mandarin productions.
-  🧙‍♂️ Also a huge Potterhead. My patronus would be a bear as my happiest moments in life involve strength, courage, and protection. The favourite quote is "After all this time? Always." and "Avada Kedrava" to cut the haters in life.
+- 🧙‍♂️ Also a huge Potterhead. My patronus would be a bear as my happiest moments in life involve strength, courage, and protection. The favourite quote is "After all this time? Always." 
 
 ## Projects
 ### IntelliFi
