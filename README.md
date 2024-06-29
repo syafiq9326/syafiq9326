@@ -13,7 +13,7 @@
 ## Interests
 - 🏃 I love running – sometimes even running from life itself, 24km is a personal goal of mine! 😄
 - 🎬 I'm a huge fan of dramas and movies, esp Thai and Korean productions!
-- 🧙‍♂️ Also a huge Potterhea, I have read the books twice and binged the movies multiple times, "Wingardium Leviosa!"
+- 🧙‍♂️ Also a huge Potterhead, I have read the books twice and binged the movies multiple times!
   
 ### IntelliFi
 A real-time personal stock analysis website featuring live stock holding prices, latest news updates, portfolio insights, and buy/sell recommendations of user's holdings, capable of text-to-speech analysis.
