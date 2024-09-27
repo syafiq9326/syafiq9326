@@ -22,8 +22,13 @@ A real-time personal stock analysis website featuring live stock holding prices,
 An "old-school" event management system, where organizers and participants can manage their schedule, similar to EventBrite, but with the added feature of analyzing event sentiments and turnout rates.
 
 ## Contributions
-![Syafiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=syafiq9326&show_icons=true&theme=radical)
-<br/>Give me awhile, I am gonna be commiting more to this Github than any of my personal relationships.
+
+![Syafiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syafiq9326&show_icons=true&theme=radical&count_private=true&cache_bust=true)
+
+<br/>
+
+Give me awhile, I am gonna be committing more to this Github than any of my personal relationships.
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/syafiq9326)
