@@ -5,7 +5,7 @@
 
   <div align="center">
     <br/>
-  <img src="https://raw.githubusercontent.com/syafiq9326/main/web.png" width="500" height="300" alt="description of image"/>
+  <img src="https://raw.githubusercontent.com/syafiq9326/syafiq9326/main/web.png" width="500" height="300" alt="description of image"/>
 </div><br/>
 
 - 📝 Check out my website: https://syafiqpersonal.vercel.app/.
