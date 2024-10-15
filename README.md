@@ -17,4 +17,4 @@
   
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/syafiq9326](https://www.linkedin.com/in/syafiqakmal/)
+- [LinkedIn][https://www.linkedin.com/in/syafiq932]
