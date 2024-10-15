@@ -8,7 +8,7 @@
   <img src="https://i.pinimg.com/originals/b9/e6/af/b9e6af0cf837dfcc444d184d1c4e6286.gif" width="500" height="300"/>
 </div><br/>
 
-- 📝 Check out my website: [syafiq9326](https://syafiqpersonal.vercel.app/).
+- 📝 Check out my website: https://syafiqpersonal.vercel.app/.
 
 ## Interests
 - 🏃 I love running – sometimes even running from life itself, 24km is a personal goal of mine! 😄
