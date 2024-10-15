@@ -1,4 +1,4 @@
-# Hello World, I'm Syafiq👋
+# Hello World, I'm Syafiq.
 
 ## About Me
 - Tech enthusiast with a passion for fintech, AI, and full-stack development.
