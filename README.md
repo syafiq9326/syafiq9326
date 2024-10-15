@@ -1,7 +1,7 @@
 # Hello World, I'm Syafiq👋
 
 ## About Me
-- Spearheading automation pipelines and developing full-stack applications.
+- Tech enthusiast with a passion for fintech, AI, and full-stack development.
 
   <div align="center">
     <br/>
