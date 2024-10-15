@@ -1,11 +1,11 @@
 # Hello World, I'm Syafiq👋
 
 ## About Me
-- 🌱 Learning how to fix broken code (I am getting there...)
+- Spearheading automation pipelines and developing full-stack applications.
 
   <div align="center">
     <br/>
-  <img src="https://64.media.tumblr.com/672edb17310fe8d43e9f95cdaf679ba4/tumblr_mgkobhdGTU1qz51ako1_500.gif" width="500" height="300"/>
+  <img src="[https://64.media.tumblr.com/672edb17310fe8d43e9f95cdaf679ba4/tumblr_mgkobhdGTU1qz51ako1_500.gif](https://i.pinimg.com/originals/b9/e6/af/b9e6af0cf837dfcc444d184d1c4e6286.gif)" width="500" height="300"/>
 </div><br/>
 
 - 📝 Check out my website: [syafiq9326](https://syafiqpersonal.vercel.app/).
