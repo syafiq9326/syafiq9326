@@ -8,27 +8,13 @@
   <img src="https://64.media.tumblr.com/672edb17310fe8d43e9f95cdaf679ba4/tumblr_mgkobhdGTU1qz51ako1_500.gif" width="500" height="300"/>
 </div><br/>
 
-- 📝 Check out my website: [syafiq9326](https://sites.google.com/view/syafiq9326).
+- 📝 Check out my website: [syafiq9326](https://syafiqpersonal.vercel.app/).
 
 ## Interests
 - 🏃 I love running – sometimes even running from life itself, 24km is a personal goal of mine! 😄
 - 🎬 I'm a huge fan of dramas and movies, esp Thai and Korean productions!
 - 🧙‍♂️ Also a huge Potterhead, I have read the books twice and binged the movies multiple times!
   
-### IntelliFi
-A real-time personal stock analysis website featuring live stock holding prices, latest news updates, portfolio insights, and buy/sell recommendations of user's holdings, capable of text-to-speech analysis.
-
-### EventPro
-An "old-school" event management system, where organizers and participants can manage their schedule, similar to EventBrite, but with the added feature of analyzing event sentiments and turnout rates.
-
-## Contributions
-
-![Syafiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syafiq9326&show_icons=true&theme=radical&count_private=true&cache_bust=true)
-
-<br/>
-
-Give me awhile, I am gonna be committing more to this Github than any of my personal relationships.
-
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/syafiq9326)
