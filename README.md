@@ -1,7 +1,7 @@
 # Hello World, I'm Syafiq.
 
 ## About Me
-- Tech enthusiast with a passion for fintech, AI, and full-stack development.
+- Tech enthusiast with a passion for automation and full-stack development.
 
   <div align="center">
     <br/>
