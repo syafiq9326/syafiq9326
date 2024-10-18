@@ -14,7 +14,7 @@
 
 ## Interests
 - 🏃 I love running – sometimes even running from life itself, 24km is a personal goal of mine! 😄
-- 🎬 I'm a huge fan of dramas and movies, esp Thai and Korean productions!
+- 🎬 I'm a huge fan of dramas and movies, esp Thai and Korean productions as well as classic 2000s!
 - 🧙‍♂️ Also a huge Potterhead, I have read the books twice and binged the movies multiple times!
   
 
