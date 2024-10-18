@@ -5,7 +5,9 @@
 
   <div align="center">
     <br/>
-  <img src="https://raw.githubusercontent.com/syafiq9326/syafiq9326/main/web.png" width="300" height="300" alt="description of image"/>
+<img src="https://raw.githubusercontent.com/syafiq9326/syafiq9326/main/web.png" 
+     alt="description of image" 
+     className="w-full h-auto max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl" />
 </div><br/>
 
 - 📝 Check out my website: https://syafiqpersonal.vercel.app/.
